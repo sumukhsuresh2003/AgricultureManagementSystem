@@ -6,7 +6,7 @@ def execute_query(query, params=None, fetch=True, multi=False):
     db = pymysql.connect(
         host='127.0.0.1',
         user='root',
-        password='QueSt20$6*ad#4',
+        password='checkonyoursys',
         database='agriculturedb'
     )
 
